@@ -51,7 +51,7 @@ używających biblioteki ppx_expect.
 
 %package devel
 Summary:	Cram like framework for OCaml - development part
-Summary(pl.UTF-8):	Szkielet w stylu Cram dla OCamla - cześć programistyczna
+Summary(pl.UTF-8):	Szkielet w stylu Cram dla OCamla - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
